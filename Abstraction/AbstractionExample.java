@@ -7,6 +7,7 @@ abstract class Shape{
         System.out.println("super constructor called");
         this.color = color;
     }
+
     String getColor(){
         return color;
     }
