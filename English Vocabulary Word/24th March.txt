@@ -1,0 +1,22 @@
+Date: 24th March
+
+    * Available:
+        can be found/bought/rented/used etc.
+        Sentence: Available memory refers to how much RAM is not being used by the computer.
+
+    * Background:
+        past events/history of a person's of company's life
+        Sentence: It's always a good idea to research a company's background before doing business with them.
+
+    * Carpal tunnel sysdrome:
+        a nerve-related illness that causes pain between the elbows and hand or in the fingers
+        Sentence: The development of Carpal Tunnel Sysdrome might be linked to computer use.
+
+    * Certification:
+        official document awarded by standard setting organizations that indicates competency in a certain professional field
+        Sentence: Earning the latest Microsoft certifications may help you further your career.
+
+    * Chief:
+        most important/main
+        Sentence: The Chief information officer (CID) is responsible for computer systems of a company.
+        

@@ -1,7 +1,7 @@
 public class Arr{
     public static void main(String[] args) {
         System.out.println("Traversing of 5D Array");
-int [][][][][] arr = {{{{{23}}},{{{1,32,54,23}}}}, {{{{45,76,98,56,43}}}}, {{{{2,5,8,90,45,23,56,56,}}}}};
+int [][][][][] arr = {{{{{23}}},{{{1,32,54,23}}}}, {{{{45,76,98,56,43}}}}, {{{{2,5,8,90,45,23,56,56,}}}}};      // this is a 5D array
 
         for(int i=0;i<arr.length;i++){
             for(int j=0;j<arr[i].length;j++){
@@ -16,7 +16,7 @@ int [][][][][] arr = {{{{{23}}},{{{1,32,54,23}}}}, {{{{45,76,98,56,43}}}}, {{{{2
             System.out.println("");
         }
 
-        // for(int i[][][][]:arr){
+        // for(int i[][][][]:arr){                  // array traversing using for-each loops;
         //     for(int j[][][]:i){
         //         for(int k[][]:j){
         //             for(int l[]:k){
