@@ -1,0 +1,15 @@
+*Gadget
+a small, electronic device
+Sentence: You can choose from the most popular high-tech gadgets our shop.
+
+*Implement
+begin to do/use
+Sentence: I need to implement two interfaces.
+
+*Increase:
+become and make something bigger in size/number
+Sentence: You should try using more photographs to increase the convrsion rate of your website.
+
+*Install
+put something in position
+Sentence: You'll have to install the latest version of Adobe Flash Player.
