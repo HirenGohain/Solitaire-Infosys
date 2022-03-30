@@ -1,0 +1,4 @@
+hello this is a file
+for checking file handaling .
+
+hello how are you
